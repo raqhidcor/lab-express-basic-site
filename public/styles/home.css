@@ -7,6 +7,8 @@ body{
     font-family: 'Taviraj', serif;;
 }
 
+/* header */
+
 header{
     background-image: url("/images/homeheadbackrgound.jpeg");
     background-size:cover;
@@ -26,6 +28,8 @@ h1{
     font-weight: bolder;
     font-size: 90px;
 }
+
+/* nav */
 
 ul{
     justify-content: center;
